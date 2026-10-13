@@ -46,7 +46,7 @@ O Enlace+ tem como objetivo promover a inclusão digital e a interação social 
 
 - **LinkedIn:** linkedin.com/in/matheuspapini
 - **E-mail:** matheuspapini037@gmail.com
-- **GitHub:** [[github.com/MatheusPapini](https://github.com/MatheusPapini)](https://github.com/MatheusPapini)
+- **GitHub:** (https://github.com/MatheusPapini)
 
 ---
 
