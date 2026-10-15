@@ -11,9 +11,3 @@ O Enlace+ tem como objetivo promover a inclusão digital e a interação social 
 - Participação nas entregas incrementais do projeto.
 - Utilização da metodologia Kanban.
 - Colaboração na implementação de funcionalidades.
-
-**Tecnologias:**
-- Java
-- React.js
-- MySQL
-- Springboot
